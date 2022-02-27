@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A compendiovs chatechsime. Newly set forth for the benefit of such as intend the sacrament of Christs body and blood, &amp;c. Imprimatur John Dovvname.</title>
+            <author>J. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85075</idno>
+            <idno type="STC">Wing F29</idno>
+            <idno type="STC">Thomason E1185_3</idno>
+            <idno type="STC">ESTC R208209</idno>
+            <idno type="EEBO-CITATION">99867179</idno>
+            <idno type="PROQUEST">99867179</idno>
+            <idno type="VID">169443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169443)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1185[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A compendiovs chatechsime. Newly set forth for the benefit of such as intend the sacrament of Christs body and blood, &amp;c. Imprimatur John Dovvname.</title>
+                  <author>J. F.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho: Paine, and are to be sold by Andrew Kembe at Margarets Hill in Southwarke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Aprill 1st".</note>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169443:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <p>A COMPENDIOVS <hi>CHATECHISME.</hi>
+            </p>
+            <p>Newly ſet forth for the benefit of ſuch as intend the Sacra<g ref="char:EOLhyphen"/>ment of CHRISTS body and BLOOD, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Jmprimatur</p>
+                        <closer>
+                           <signed>JOHN DOVVNAME.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho: Paine,</hi> and are to be ſold by <hi>Andrew Kembe</hi> at <hi>Margarets Hill</hi> in <hi>Southwarke.</hi> 1645,</p>
+         </div>
+         <div type="introduction_to_catechism">
+            <pb facs="tcp:169443:2"/>
+            <!-- PDF PAGE 30 -->
+            <epigraph>
+               <q>
+                  <bibl>1 PET. 3.15.</bibl>
+                  <p>Sanctifie the Lord God in your Hearts; and be alwaies ready to give an anſwer to every one that asketh you a reaſon of the hope that is in you with Meekeneſſe and with Feare.</p>
+               </q>
+            </epigraph>
+            <p>
+               <label>Quaere.<lb/>
+Q.</label> 
+               <hi>How farre are people bound to make confeſſion of their Faith; And to whom?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. Affirmative precepts oblige not alwaies to actuall performances, yet in preparation of Minde and Ability to bee Alwaies ready to give an Anſwer.</item>
+                  <item>2. Calling thereunto is when one that hath authority asketh you a Reaſon, as Naturall Ci<g ref="char:EOLhyphen"/>vill or Spirituall parents, all ſuch as give Ac<g ref="char:EOLhyphen"/>count for your ſoules.</item>
+                  <item>3. The end is needfull to approve to others as well as your ſelves, the hope that is in you, that Governours bee comforted, Brethren edifyed, and God glorified.</item>
+                  <item>4. The manner muſt bee diſcreet and ſo<g ref="char:EOLhyphen"/>lemne, with Meekeneſſe and godly Feare.</item>
+                  <item>5. Perſons ready to give an Anſwer are ſuch as ſanctifie the Lord God in their Hearts.</item>
+               </list>
+            </p>
+            <p>Now ſee Brethren,</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:169443:2"/>
+            <!-- PDF PAGE 30 -->
+            <head>A VERY SHORT ACCOMPT of a Chriſtians knowledge of God, of CHRIST, and of the SACRAMENT.</head>
+            <p>Penned for the uſe of the Au<g ref="char:EOLhyphen"/>thors Paſtorall Charge,</p>
+            <p>And compiled into 16. Queſtions for ſhort memories, eſpecially for ſuch as intend the Sacrament of Chriſts Body and Bloud.</p>
+            <p>Leſſe then this, ſhould not ſatisfie any Communicant.</p>
+            <div type="epigraph">
+               <q>
+                  <bibl>1 COR. 11.29.</bibl>
+                  <p>For he that eateth and drinketh unworthily, eateth and drinketh damnation to himſelfe, Be<g ref="char:EOLhyphen"/>cauſe he diſcerneth not the Lords Body.</p>
+                  <p>Much more is Requiſite to the worthy Receiver.</p>
+               </q>
+               <q>
+                  <bibl>Coloſ. 1.9, 10.</bibl>
+                  <p>For this cauſe we alſo ſince the day we heard it, doe not ceaſe to pray for you, and to deſire that you might bee filled with the knowledge of his will in all wiſedome and ſpirituall underſtanding.</p>
+                  <p>That ye might walke worthy of the Lord unto all pleaſing, being fruitfull in every good worke, and in<g ref="char:EOLhyphen"/>creaſing in the knowledge of God.</p>
+               </q>
+               <closer>
+                  <signed>So prayeth Yours in Chriſt. <hi>J. F.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="text_of_catechism">
+               <pb facs="tcp:169443:3"/>
+               <!-- PDF PAGE 31 -->
+               <pb facs="tcp:169443:3"/>
+               <!-- PDF PAGE 31 -->
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>IOHN 17.3.</hi>
+                     </bibl>
+                     <p>This is Life Eternall to know thee the onely true GOD, And <hi>IESUS CHRIST</hi> Whom thou haſt ſent.</p>
+                  </q>
+               </epigraph>
+               <p n="1">
+                  <label>1. Q.</label>
+                  <seg rend="decorInit">W</seg>
+                  <gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t is God?</p>
+               <p>
+                  <label>Anſ.</label> God is a Spirit, One, Al<g ref="char:EOLhyphen"/>mighty, Eternall, Infinit, unchangeable Beeing, Abſolutely Holy-Wiſe, Juſt and Good, and worſhipped by his people in a Trinity of Perſons, <hi>Iohn</hi> 4.24. 1 <hi>Cor.</hi> 8.4. <hi>Exod.</hi> 3.14. and 34 6.</p>
+               <p n="2">
+                  <label>2. Q.</label> What doe you underſtand by the Trinitie of perſons?</p>
+               <p>
+                  <label>A.</label> Three ſubſiſtances in that <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne Divine
+<pb facs="tcp:169443:4"/>
+                  <!-- PDF PAGE 32 -->Being, namely the Father, Sonne, and Ho<g ref="char:EOLhyphen"/>ly Ghoſt. <hi>Mat.</hi> 28.19.
+<list>
+                     <item>1. Diſtinguiſhed in themſelves by their incommunicable properties of Relation, the Father begetting, the Sonne begotten, the Holy Ghoſt proceeding, <hi>Pſal.</hi> 2.7. <hi>John</hi> 1 18. &amp; 15.26.</item>
+                     <item>2 Diſcerned to us in their outward works the Father in Creating, the Sonne in Re<g ref="char:EOLhyphen"/>deeming, the Holy Ghoſt in Sanctifying, <hi>Epheſ.</hi> 3.9. <hi>Gal.</hi> 3.13. 1 <hi>Cor.</hi> 6.11.</item>
+                  </list>
+               </p>
+               <p n="3">
+                  <label>3. Q.</label> What was the Creation of Man?</p>
+               <p>
+                  <label>Anſ.</label> God framed his Body of the duſt, and breathed into it a reaſonable ſoule, con<g ref="char:EOLhyphen"/>ſtituting his Perſon i<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtate of perfect holineſſe and happineſſe, from which be<g ref="char:EOLhyphen"/>ing ſeduced by Sathan hee fell under the power of Sinne and Death, without all poſſibilty of Redemption, but by the In<g ref="char:EOLhyphen"/>carnation of the Sonne of God, <hi>Gen.</hi> 2.7.3.15.</p>
+               <p n="4">
+                  <label>4. Q.</label> What did God the Sonne to Redeeme us?</p>
+               <p>
+                  <label>Anſ.</label> 
+                  <list>
+                     <item>He tooke our nature, and for us in it, 1 he performed all that righteouſneſſe the Law required, <hi>Mat.</hi> 3.15.</item>
+                     <item>
+                        <pb facs="tcp:169443:4"/>
+                        <!-- PDF PAGE 32 -->
+2. Hee ſatisfied all that vengeance ſinne deſerved, <hi>Gal.</hi> 3.13. And is therefore called Jeſus (that is) a Saviour, becauſe he per<g ref="char:EOLhyphen"/>fectly ſaveth both our Soules and Bodies from ſin and wrath, <hi>Heb.</hi> 7.21. <hi>Mat.</hi> 1.21.<lb/>
+And Chriſt (that is) Annointed, to be our Prieſt to intercede for us, <hi>Heb.</hi> 4.14, 15. Our Prophet to inſtruct us, <hi>John</hi> 6.14. Our King to protect and rule us, <hi>Act.</hi> 2.36.</item>
+                  </list>
+               </p>
+               <p n="5">
+                  <label>5 Q.</label> How is the benefit of Chriſts Redempti<g ref="char:EOLhyphen"/>on made ours?</p>
+               <p>
+                  <label>Anſ.</label> 
+                  <list>
+                     <item>1. By his Spirit applying unto us the Merit and Efficaſie of Chriſts Mediation in all thoſe Ordinances and waies of Grace which God hath appointed his people to attend upon, <hi>Rom.</hi> 8 2. 2 <hi>Cor.</hi> 3 6.</item>
+                     <item>2 By a juſtifying Faith, which is a ſuper<g ref="char:EOLhyphen"/>naturall gift wrought in our hearts by the Spirit of Grace through the miniſtry of the Goſpel, apprehending and applying Chriſts active and paſſive obedience as our owne, imputed by God unto his choſen, <hi>Eph.</hi> 2.8. <hi>Rom.</hi> 10.17. and 4.24.</item>
+                  </list>
+               </p>
+               <p n="6">
+                  <label>6. Q.</label> What are the Seales of the righteouſ<g ref="char:EOLhyphen"/>neſſe of Faith?</p>
+               <p>
+                  <label>Anſ.</label> The Sacraments ordained of God,
+<pb facs="tcp:169443:5"/>
+                  <!-- PDF PAGE 33 -->by viſible and corporall ſignes to repreſent and to exhibite unto true beleevers, the in<g ref="char:EOLhyphen"/>viſible and ſpirituall benefits of Chriſts death, <hi>Gen.</hi> 17 11. 1 <hi>Cor.</hi> 10.16.</p>
+               <p n="7">
+                  <label>7. Q</label> How many Sacraments are there?</p>
+               <p>
+                  <label>Anſ.</label> Of the new Teſtament there are two (to wit) Baptiſme and the Lords Sup<g ref="char:EOLhyphen"/>per which by the inſtitution of Chriſt ſuc<g ref="char:EOLhyphen"/>ceeded thoſe two of the Old, namely Cir<g ref="char:EOLhyphen"/>cumciſion and the Paſcall Lambe, 1 <hi>Cor.</hi> 10.1, 2, 3. &amp; 5 7. <hi>Coloſ.</hi> 1.11, 12.</p>
+               <p n="8">
+                  <label>8. Q.</label> What are the parts of the Sacrament of Baptiſme?</p>
+               <p>
+                  <label>Anſ.</label> The viſible part is Water ſprinkled on the Child in the name of the Father, Sonne, and Holy Ghoſt; The inviſible part is the Regeneration of our Nature, and the waſhing away of ſin through the blood of Chriſt, applyed by the Spirit of God to thoſe that are Elect. <hi>Tit.</hi> 3.5. <hi>Act.</hi> 2.38.</p>
+               <p n="9">
+                  <label>9. Q</label> Is the inviſible grace performed in the time of Baptiſme?</p>
+               <p>
+                  <label>Aſw.</label>
+                  <list>
+                     <item>1. Baptiſme is onely an initiating and ingrafting ordinance, wherein the Lord would ſignifie unto Believers that their
+<pb facs="tcp:169443:5"/>
+                        <!-- PDF PAGE 33 -->children as well as themſelves, are taken in<g ref="char:EOLhyphen"/>to covenant with God, <hi>Rom.</hi> 6.5. <hi>Act.</hi> 2.39.</item>
+                     <item>2. Being the ſeale of the Covenant of Grace it carries with it all the Grace of the Covenant from which it hath its vertue; which Grace though it bee ſealed in preſent yet is not performed till the ſeverall ſeaſons thereof, as perfection in holineſſe is ſealed here, though not accompliſhed till we come to heaven, <hi>Epheſ.</hi> 4.30</item>
+                     <item>3. Vnion between Chriſt and the child, is, when the grace of the Covenant is in any meaſure applyed; though comfort of it is not, till effectuall calling, that the child comes actually to beleeve and to give up it ſelfe in Covenant with God, 1 <hi>Pet.</hi> 3.21.</item>
+                  </list>
+               </p>
+               <p n="10">
+                  <label>10. Q.</label> What is the Sacrament of the Lords Supper?</p>
+               <p>
+                  <label>Anſ.</label> It is an Ordinance of the New Te<g ref="char:EOLhyphen"/>ſtament ſhewing Chriſt to be come, and to have ſuffered in the fleſh; wherein by the outward Elements of Bread and Wine are ſignified and applyed to Beleevers the ſa<g ref="char:EOLhyphen"/>ving ben<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fits of Chriſts Body broken, and his blood ſhed for ſinne, <hi>Mat.</hi> 26.26, 27. 1 <hi>Cor.</hi> 11.24, 25.</p>
+               <p n="11">
+                  <pb facs="tcp:169443:6"/>
+                  <!-- PDF PAGE 34 -->
+                  <label>11. Q.</label> What is the union betweene the ſignes and the things ſignified?</p>
+               <p>
+                  <label>Anſ.</label> Not Corporall but Spirituall, yet Reall in the ſaving effects of Chriſts Reall preſence to the worthy Receiver, <hi>Joh.</hi> 6.63. 1 <hi>Cor.</hi> 10.3.4.16.</p>
+               <p n="12">
+                  <label>12. Q.</label> How doth a Chriſtian becom a wor<g ref="char:EOLhyphen"/>thy Receiver?</p>
+               <p>
+                  <label>A.</label> There is a two fold worthineſſe,
+<list>
+                     <item>1. Of the perſon, which is Gods gracious acceptation of poore ſinners in Jeſus Chriſt, <hi>Mat.</hi> 3.17.</item>
+                     <item>2. Of the Action which conſiſts in our due preparation by Examining our ſelves, 1 <hi>Cor.</hi> 11.28.</item>
+                  </list>
+               </p>
+               <p n="13">
+                  <label>13. Q.</label> By what Rule ought wee to examine our ſelves?</p>
+               <p>
+                  <label>A.</label> By the word of God which is a ſpi<g ref="char:EOLhyphen"/>rituall Glaſſe to ſhew us the face of our con<g ref="char:EOLhyphen"/>ſciences in our twofold eſtate, either of Na<g ref="char:EOLhyphen"/>ture or of Grace. The Law diſcovers our ſinne, the Goſpel our remedy, that ſeeing our ſinne, we might make out after our Re<g ref="char:EOLhyphen"/>medy, 1 <hi>Cor.</hi> 3.18. <hi>Rom.</hi> 7.24 25.</p>
+               <p n="14">
+                  <label>14. Q.</label> Wherein ſtands this ſelfe Examina<g ref="char:EOLhyphen"/>tion?</p>
+               <p>
+                  <pb facs="tcp:169443:6"/>
+                  <!-- PDF PAGE 34 -->
+                  <label>A.</label> In ſetting a part ſome time before we receive ſolemly to ſeeke our Reconciliation with God, and to prove unto our ſelves.<lb/>
+Fi<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, our Knowledge.
+<list>
+                     <item>1. In the Doctrine of the Trinity. <hi>John</hi> 173.</item>
+                     <item>2. In the Myſterie of redemption. <hi>John</hi> 173.</item>
+                     <item>3. In the Nature, End, and uſes of the Sacrament, 1 <hi>Cor.</hi> 11.29.</item>
+                  </list>
+Secondly, our Faith.
+<list>
+                     <item>1 Studying out the Conditions, Com<g ref="char:EOLhyphen"/>forts, and Fruits of the promiſes.</item>
+                     <item>2. Relying on the Free grace of the Co<g ref="char:EOLhyphen"/>venant, wherein God undertakes both his owne part and ours.</item>
+                     <item>3. Laying the promiſes to our hearts and lives to try out our owne intereſts in them, 2 <hi>Cor.</hi> 13.5. <hi>Heb.</hi> 11.6.</item>
+                  </list>
+Thirdly, our Repentance.
+<list>
+                     <item>1. In a through ſight of, and a proporti<g ref="char:EOLhyphen"/>onable ſorrow for our manifold breaches of Covenant with God, <hi>Jſa.</hi> 1.13 16.</item>
+                     <item>2. In our firme purpoſes and promiſes to God, to Abominate all our former ſinnes, and to ſerve the Lord <hi>Chriſt</hi> ſincerely and conſtantly in newneſſe of life, <hi>Pſal.</hi> 119.106.</item>
+                  </list>
+               </p>
+               <p n="15">
+                  <label>15. Q</label> What are the benefits which wee Re<g ref="char:EOLhyphen"/>ceive
+<pb facs="tcp:169443:7"/>
+                  <!-- PDF PAGE 35 -->in the Sacrament of the Lords Supper?</p>
+               <p>
+                  <label>A.</label> Two eſpecially; as
+<list>
+                     <item>1. The ſealing of all the comforts of Gods promiſes to the truly humbled an<gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>elee<g ref="char:EOLhyphen"/>ving ſoule, <hi>Rom.</hi> 4.11.</item>
+                     <item>2. The engaging of the heart to keepe cloſer in communion with Ieſus Chriſt, 1 <hi>Cor.</hi> 10.16 21.</item>
+                  </list>
+In both which after we have received we are carefully to obſerve the force of the Sa<g ref="char:EOLhyphen"/>crament how it workes againſt Infidelity and the power of corruption.</p>
+               <p n="16">
+                  <label>16. Q</label> What may bee our Evidences of our intereſt in the Covenant of grace?</p>
+               <p>
+                  <label>A.</label> Chiefly theſe three.
+<list>
+                     <item>1. The witneſſe of the Spirit of Adopti<g ref="char:EOLhyphen"/>on in the vital operations of the New birth, <hi>Rom.</hi> 8.14.16.</item>
+                     <item>2. The Efficacy of the promiſes purging us from all filthineſſe of fleſh and ſpirit, and perfecting holineſſe in the feare of God, 2 <hi>Cor.</hi> 7.1.</item>
+                     <item>3. The proper effects of a living Faith, as,
+<list>
+                           <item>1. Acting the life of Chriſt in us, <hi>Gal.</hi> 2.20.</item>
+                           <item>2. Purifying our hearts, &amp; our conſciences from dead workes, <hi>Act.</hi> 15.9. <hi>Heb.</hi> 9.14.</item>
+                           <item>
+                              <pb facs="tcp:169443:7"/>
+                              <!-- PDF PAGE 35 -->
+3. Working by Love, by Patience, and by all other ſanctifying gifts, <hi>Gal.</hi> 5. <hi>Rom.</hi> 6 5.24.</item>
+                           <item>4. Carying us with an holy boldneſſe, and with full aſſurance to the throne of Grace, <hi>Heb.</hi> 4.16.10.22.</item>
+                           <item>5. Lifting us up above the world, ſinne, and ſufferings, or any temptation that inter<g ref="char:EOLhyphen"/>rupts the Grace or Peace of our Communi<g ref="char:EOLhyphen"/>on with the Lord Ieſus, 1 <hi>Iohn</hi> 5.4. <hi>Rom.</hi> 8.38, 39.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
